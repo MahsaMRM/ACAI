@@ -1,7 +1,7 @@
 # ACAI
-a repository for adding the symbols and fonts work with acai source code
+A repository to train the symbols and fonts pixel images with acai source code
 
-<h4>1) set up the virtualenv:</h4>
+<h4>1) Set up the virtualenv:</h4>
 
 <p>Running on GPU:
 
@@ -15,7 +15,7 @@ For running on CPU on local machine and testing:
 
 Change tensorflow-gpu==1.8.0 in requirements.txt to tensorflow</p>
 
-<h4>2) make your data sets using prepare_data</h4>
+<h4>2) Make your data sets using prepare_data</h4>
 
 <h4>3) Set your data directory in lib/data.py:</h4>
 
